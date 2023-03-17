@@ -1,5 +1,8 @@
-#!/bin/bash
 #include <stdio.h>
+/**
+ * Main - A programm that prints the types of computer programm
+ * Return - 0 (Success)
+ */
 int main(void)
 {
 char a;
